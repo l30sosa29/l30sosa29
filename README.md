@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @l30sosa29...but you can call me Leo
+- 👀 I’m interested in Web development, Cyber-Security, and Exploring the World!
+- 🌱 I’m currently learning Java and delving further into pentesting.
+- 💞️ I’m looking to collaborate on exciting projects that will make an impact.
+- 📫 You can reach me at joesos1195+github@gmail.com
